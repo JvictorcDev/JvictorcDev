@@ -4,7 +4,7 @@
 
 **`Analista de processos e requisitos`**
 
-Meu nome é João Victor, tenho 25 anos e sou natural de Atibaia-SP. Concluí o ensino médio na Etec de Mairiporã, com o curso técnico em Administração. Atualmente, estou cursando Gestão da Tecnologia da Informação na Fatec Franco da Rocha. Ainda me considero com pouca experiencia como desenvolvedor, estou me aprimorar como desenvolvedor e buscar a especialização em alguma stack.
+Meu nome é João Victor, tenho 25 anos e sou natural de Atibaia-SP. Concluí o ensino médio na Etec de Mairiporã, com o curso técnico em Administração. Atualmente, estou cursando Gestão da Tecnologia da Informação na Fatec Franco da Rocha.
 
 ## 🌐 Conecte-se comigo
 
