@@ -41,7 +41,6 @@ Meu nome é João Victor, tenho 25 anos e sou natural de Atibaia-SP. Concluí o 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JvictorcDev&show_icons=true&theme=blue&include_all_commits=true&locale=pt-br" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JvictorcDev&theme=blue&layout=compact&langs_count=8" alt="Top Linguagens" />
 </p>
 
 ---
